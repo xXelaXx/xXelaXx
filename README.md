@@ -2,7 +2,7 @@
     Hey, I'm Alexis ! 👋🏻
 </h2>
 
-💼&nbsp;&nbsp;&nbsp;Étudiant en 1ère année de BUT Informatique<a href="https://www.iutvannes.fr/">IUT de Vannes</a>&nbsp;
+💼&nbsp;&nbsp;&nbsp;Étudiant en 1ère année de BUT Informatique à l'<a href="https://www.iutvannes.fr/">IUT de Vannes</a>&nbsp;
 
 🌱&nbsp;&nbsp;&nbsp;Actuellement en train d'apprendre : Java, WordPress, et les bases du développement web.
 
