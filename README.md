@@ -4,7 +4,7 @@
 
 💼&nbsp;&nbsp;&nbsp;I'm a student at <a href="https://www.iutvannes.fr/">IUT de Vannes</a>&nbsp;
 
-🌱&nbsp;&nbsp;&nbsp;I’m currently learning Lua
+🌱&nbsp;&nbsp;&nbsp; Actuellement en train d'apprendre : Java, WordPress, et les bases du développement web.
 
 <!--📫&nbsp;&nbsp;&nbsp;Email me at example@gmail.com
 
