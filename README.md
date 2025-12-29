@@ -2,9 +2,9 @@
     Hey, I'm Alexis ! 👋🏻
 </h2>
 
-💼&nbsp;&nbsp;&nbsp;Étudiant en 1ère année de BUT Informatique à l'<a href="https://www.iutvannes.fr/">IUT de Vannes</a>&nbsp;
+💼&nbsp;&nbsp;&nbsp;Étudiant en 2ème année de BUT Informatique à l'<a href="https://www.iutvannes.fr/">IUT de Vannes</a>&nbsp;
 
-🌱&nbsp;&nbsp;&nbsp;Actuellement en train d'apprendre : Java, WordPress, et les bases du développement web.
+🌱&nbsp;&nbsp;&nbsp;Actuellement en Parcours Intelligence Artificielle. J'apprends différents languages tels que Javascript, SQL, Python...
 
 <!--📫&nbsp;&nbsp;&nbsp;Email me at example@gmail.com
 
